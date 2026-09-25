@@ -1,4 +1,4 @@
-# PROJECTNAME
+Suricata IDS Lab
 
 ## Objective
 
